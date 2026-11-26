@@ -1,3 +1,11 @@
+<!-- unleashedapi -->
+<p align="center">
+  <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=Pokemon-Legends-Z-A--Colorful-Screws-Tracker">
+    <img src="https://raw.githubusercontent.com/StonedModder/unleashedapi/main/assets/banner.png" alt="UnleashedAPI — uncensored OpenAI-compatible AI API. Free to start." width="100%">
+  </a><br>
+  Drop-in OpenAI-compatible endpoint. <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=Pokemon-Legends-Z-A--Colorful-Screws-Tracker"><strong>UnleashedAPI</strong></a> — uncensored models, free to start.
+</p>
+
 # Pokémon Legends: Z-A Colorful Screws Tracker
 
 An organized resource for tracking all Colorful Screws in Pokémon Legends: Z-A.  
